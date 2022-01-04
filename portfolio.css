@@ -357,6 +357,7 @@ box-sizing: border-box; /* This creates a box with a border within which we will
     background-color: #005F73;
 }
 
+
 /* This inserts something after the content of selected elements (in this case the elements with class "Row") */
 .Row:after {
     content: ""; /* By leaving this blank, we are allowing the footer (covered lower down) to be displayed - removing it makes the footer overwrite a comlumn */
