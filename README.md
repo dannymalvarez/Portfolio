@@ -7,4 +7,4 @@ will be adding more of a personal touch. As of 1/4/22, I have added a "Who am I?
 up some of the text throughout the page to not leak onto other areas or get lost behind anything. 
 
 And it features a video I never thought I would find a practical use for, which is me studying for finals my sophomore year of college! 
-I had some methods that weren't the best but made for great timelapses (I would compeletely retype/rewrite an entire semester's worth of notes for almost each class...)
+I had some methods that weren't the best but made for great timelapses (I would completely retype/rewrite an entire semester's worth of notes for almost each class...)
