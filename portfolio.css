@@ -357,6 +357,12 @@ box-sizing: border-box; /* This creates a box with a border within which we will
     background-color: #005F73;
 }
 
+.RepoRow {
+  text-align: center;
+  background-color: #568E97;
+  padding: 1.6%;
+  height: 450px;
+}
 
 /* This inserts something after the content of selected elements (in this case the elements with class "Row") */
 .Row:after {
