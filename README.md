@@ -1,10 +1,12 @@
 # TTA-Portfolio
 This repo is for my portfolio as it gets updated and personalized through the bootcamp.
-I plan to update this in an increasingly accurate-to-me style that I have yet to figure out. 
-Part of it is that I am not terribly artistically gifted so all my visual creativity lives in my head. 
-However, with coding I am able to express that more and more. So as I continue to get familiar with various coding concepts I 
-will be adding more of a personal touch. As of 1/4/22, I have added a "Who am I?" section as well as updated/improved contact methods. I have also cleaned
-up some of the text throughout the page to not leak onto other areas or get lost behind anything. 
+My portfolio is an opportunity to show potential employers what I can create and also serves to characterize me a bit. It includes a couple different pieces of info like pictures of me and my family, a quote I like, and some written up descriptions. It also includes links to my various repositories. 
 
-And it features a video I never thought I would find a practical use for, which is me studying for finals my sophomore year of college! 
+I am open to suggestions on improvements as they would serve as more practice for me. That would also give me more ways to express myself through my site which is always a good thing! 
+
+If you are interested in learning how I created this I would be glad to discuss! You can reach me through either LinkedIn or email, both of which are listed in the site.
+
+As of now, I am the sole contributor to this project.
+
+Fun fact: My portfolio features a video I never thought I would find a practical use for, which is me studying for finals my sophomore year of college! 
 I had some methods that weren't the best but made for great timelapses (I would completely retype/rewrite an entire semester's worth of notes for almost each class...)
