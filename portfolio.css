@@ -379,6 +379,10 @@ box-sizing: border-box; /* This creates a box with a border within which we will
     padding-bottom: 12px;
 }
 
+.text-center{
+    text-align: center;
+}
+
 /**** END OF TABLE STYLING ****/
  
 /**** CONTACT FORM STYLING ****/
