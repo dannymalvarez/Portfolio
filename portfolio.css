@@ -383,6 +383,10 @@ box-sizing: border-box; /* This creates a box with a border within which we will
     text-align: center;
 }
 
+.text-white{
+    color: white;
+  }
+
 /**** END OF TABLE STYLING ****/
  
 /**** CONTACT FORM STYLING ****/
